@@ -1,0 +1,9 @@
+a:FLOAT.
+a=1,5.
+a:UINT.
+a=2.
+a:FLOAT.
+a= 6,0.
+IF (a == 6,0) THEN
+	OUT('Exito').
+ENDIF

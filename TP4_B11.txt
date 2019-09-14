@@ -1,0 +1,6 @@
+a:FLOAT.
+a=1,5.
+LET a = 2+3.
+IF (a ==5) THEN
+	OUT('Exito').
+ENDIF

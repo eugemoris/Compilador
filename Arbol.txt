@@ -1,0 +1,7 @@
+ejecutablenull
+	:null
+		bID
+		UINTnull
+	=CE
+		bCE
+		3CE

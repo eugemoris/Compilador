@@ -1,0 +1,2 @@
+[
+Linea 2: ERROR  no se admiten enteros negativos]
